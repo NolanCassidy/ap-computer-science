@@ -1,0 +1,8 @@
+Advanced Placement Computer Programming: Java
+
+(UC) Advanced Placement Computer Programming is a year-long course intended for students who want a challenging, in-depth, introductory college-level course in computer programming while still in high school. AP Computer Programming is a nationally developed, standardized curriculum that helps prepare students to take the College Board AP Computer Science Exam and receive college credit (subject to the individual restrictions and requirements of universities).
+
+This course, which is taught in our high-end Windows computer lab, is intended for students who are interested in a career or further studies in computer science or who have a serious interest in computer programming. Students will gain extensive experience developing and analyzing algorithms and data structures and creating computer programs to solve given problems. The computer language currently being used by the College Board for the Advanced Placement Exam is Java.
+
+
+http://redwood.org/rhs/academic/apptech/program/prgclass.htm
